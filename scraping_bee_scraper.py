@@ -117,7 +117,7 @@ logger.addHandler(console_handler)
 load_dotenv()
 
 # ScrapingBee API key
-API_KEY = "SXE9F6ZZ8E8FGAFGE988REK5KABOUJJCZPSF7WHXMOK5ALSV2AJ9PXTVY23K6YMRZSOVJY3I0IFGEGDD"
+API_KEY = ''
 
 # Indeed country URLs
 INDEED_URLS = {
